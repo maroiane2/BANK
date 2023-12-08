@@ -6,7 +6,7 @@ The provided C++ code is a simple console-based program that allows the user to 
 ### Student Class:
 - Represents a student with attributes: `NameOfStudent`, `note1`, `note2`, and `noteMoyenne`.
 - Provides methods to set and validate note values.
-- 
+  
 ### Global Vector:
 - `vector<Student>` bookList; is declared globally to store student objects.
 
