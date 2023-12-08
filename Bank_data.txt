@@ -1,0 +1,24 @@
+Cin: 1
+montant: 124
+first name:  mrwan
+last name:  jaballah
+
+-----------------
+Cin: 2
+montant: 123
+first name: mrwan
+last name: jaballah
+
+-----------------
+Cin: 3
+montant: 999
+first name:  mrwan
+last name:  jaballah
+
+-----------------
+Cin: 4
+montant: 123
+first name: mrwan
+last name: jaballah
+
+-----------------
