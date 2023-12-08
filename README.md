@@ -1,7 +1,7 @@
 # BANK
 
 
-The provided C++ code is a simple console-based program that allows the user to either enter new student data or view existing student data. It uses file handling to store and retrieve student information in a text file named "Student_data.txt." The program defines a Student class with attributes such as name, note1, note2, and noteMoyenne (average note). Here is a summary of the code:
+The provided C++ code is a simple console-based program that allows the user to either enter new student data or view existing student data. It uses file handling to store and retrieve student information in a text file named "Student_data.txt." The program defines a `Student` class with attributes such as name, note1, note2, and noteMoyenne (average note). Here is a summary of the code:
 
 ### Student Class:
 - Represents a student with attributes: `NameOfStudent`, `note1`, `note2`, and `noteMoyenne`.
